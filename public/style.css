@@ -1,0 +1,21 @@
+body {
+    background-color: #eeeeee;
+}
+
+h1 {
+    text-align: center;
+}
+
+.profile {
+    background-color: white;
+    text-align: center;
+}
+
+.profile img {
+    width: 120px;
+}
+
+.box {
+    background-color: white;
+    margin-top: 20px;
+}
